@@ -1,0 +1,1 @@
+Repository contains R code to replicate analysis and visualization of the paper: Systemic challenges in psychedelic animal research: sex bias, methodological rigor, and dose relevance – systematic review
